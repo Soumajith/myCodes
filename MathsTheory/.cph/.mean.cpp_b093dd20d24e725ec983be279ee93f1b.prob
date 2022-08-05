@@ -1,0 +1,1 @@
+{"name":"Local: mean","url":"d:\\programming\\MathsTheory\\mean.cpp","tests":[{"id":1642951477364,"input":"2\n2\n4 5\n5\n2 2 2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\MathsTheory\\mean.cpp","group":"local","local":true}

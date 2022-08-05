@@ -1,0 +1,1 @@
+{"name":"Local: gamefriend","url":"d:\\programming\\intro.c\\gamefriend.cpp","tests":[{"id":1640880590068,"input":"3\n2 3 4 5\n3 3 3 3\n2 3 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\intro.c\\gamefriend.cpp","group":"local","local":true}

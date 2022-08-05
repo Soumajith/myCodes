@@ -1,0 +1,1 @@
+{"name":"Local: friendsmeet","url":"d:\\programming\\test\\friendsmeet.cpp","tests":[{"id":1642876900621,"input":"3\n2\n3\n1000000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\test\\friendsmeet.cpp","group":"local","local":true}

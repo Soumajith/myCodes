@@ -1,0 +1,1 @@
+{"name":"Local: road","url":"d:\\programming\\test\\road.cpp","tests":[{"id":1642447648118,"input":"7\n1 4\n4 3\n5 4\n10 12\n1 3\n999999999 1000000000\n17 2384823","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\test\\road.cpp","group":"local","local":true}

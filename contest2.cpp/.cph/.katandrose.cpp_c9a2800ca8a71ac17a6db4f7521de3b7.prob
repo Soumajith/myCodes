@@ -1,0 +1,1 @@
+{"name":"Local: katandrose","url":"d:\\programming\\contest2.cpp\\katandrose.cpp","tests":[{"id":1644256642996,"input":"4\n1 8 16 32","output":"1\n16\n1 16\n8 32\n1 8 32\n8 32 16\n1 8 16 32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\contest2.cpp\\katandrose.cpp","group":"local","local":true}

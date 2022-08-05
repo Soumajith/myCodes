@@ -1,0 +1,1 @@
+{"name":"Local: election","url":"d:\\programming\\test\\election.cpp","tests":[{"id":1643048157582,"input":"2\n2\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\test\\election.cpp","group":"local","local":true}

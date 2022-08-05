@@ -1,0 +1,1 @@
+{"name":"Local: vectorofvector","url":"d:\\programming\\STL\\vectorofvector.cpp","tests":[{"id":1640698777601,"input":"3\n4\n1 2 3 1\n1\n4\n5\n1 4 6 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\STL\\vectorofvector.cpp","group":"local","local":true}

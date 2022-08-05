@@ -1,0 +1,1 @@
+{"name":"Local: exam","url":"d:\\programming\\intro.c\\exam.c","tests":[{"id":1652715750289,"input":"13","output":"It is a prime number"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\intro.c\\exam.c","group":"local","local":true}

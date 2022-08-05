@@ -1,0 +1,1 @@
+{"name":"Local: matrics","url":"d:\\programming\\intro.c\\question\\matrics.c","tests":[{"id":1656315187576,"input":"5\n100\n89\n55\n10\n30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\intro.c\\question\\matrics.c","group":"local","local":true}

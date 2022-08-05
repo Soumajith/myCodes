@@ -1,0 +1,1 @@
+{"name":"Local: primefactor","url":"d:\\programming\\MathsTheory\\primefactor.cpp","tests":[{"id":1642693351522,"input":"24\n24","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\MathsTheory\\primefactor.cpp","group":"local","local":true}

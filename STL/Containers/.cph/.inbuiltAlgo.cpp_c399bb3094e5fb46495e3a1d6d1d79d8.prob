@@ -1,0 +1,1 @@
+{"name":"Local: inbuiltAlgo","url":"d:\\programming\\STL\\Containers\\inbuiltAlgo.cpp","tests":[{"id":1641225921788,"input":"6\n2 3 1 6 7 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\STL\\Containers\\inbuiltAlgo.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: decryption","url":"d:\\programming\\MathsTheory\\decryption.cpp","tests":[{"id":1643127068127,"input":"4 3\n2 22 7 10\n16\n429\n42","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\MathsTheory\\decryption.cpp","group":"local","local":true}

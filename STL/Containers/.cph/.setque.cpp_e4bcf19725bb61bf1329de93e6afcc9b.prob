@@ -1,0 +1,1 @@
+{"name":"Local: setque","url":"d:\\programming\\STL\\Containers\\setque.cpp","tests":[{"id":1640850077179,"input":"3 3\nabc\nhfh\njkl\nabc\njhk\njkl","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\STL\\Containers\\setque.cpp","group":"local","local":true}

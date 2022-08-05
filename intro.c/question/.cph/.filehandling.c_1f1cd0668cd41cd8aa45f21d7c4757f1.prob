@@ -1,0 +1,1 @@
+{"name":"Local: filehandling","url":"d:\\programming\\intro.c\\question\\filehandling.c","tests":[{"id":1656653739680,"input":"soumajith das is a student\nin a college\nhaving a bag","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\intro.c\\question\\filehandling.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: wavesort","url":"d:\\programming\\C++ 2.0\\wavesort.cpp","tests":[{"id":1637214805219,"input":"1 3 4 7 5 6 2","output":"3 1 7 4 6 5 2 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\C++ 2.0\\wavesort.cpp","group":"local","local":true}

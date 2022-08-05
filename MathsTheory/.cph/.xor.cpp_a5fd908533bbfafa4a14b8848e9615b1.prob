@@ -1,0 +1,1 @@
+{"name":"Local: xor","url":"d:\\programming\\MathsTheory\\xor.cpp","tests":[{"id":1641928171899,"input":"5\n1 2 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\MathsTheory\\xor.cpp","group":"local","local":true}

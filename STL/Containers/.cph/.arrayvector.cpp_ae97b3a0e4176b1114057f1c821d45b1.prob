@@ -1,0 +1,1 @@
+{"name":"Local: arrayvector","url":"d:\\programming\\STL\\Containers\\arrayvector.cpp","tests":[{"id":1640697356208,"input":"3\n3\n1 2 4\n1\n4\n2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\STL\\Containers\\arrayvector.cpp","group":"local","local":true}

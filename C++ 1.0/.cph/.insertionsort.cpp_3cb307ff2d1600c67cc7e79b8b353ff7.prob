@@ -1,0 +1,1 @@
+{"name":"Local: insertionsort","url":"d:\\programming\\C++ 1.0\\insertionsort.cpp","tests":[{"id":1643488204407,"input":"5\n9 7 4 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\C++ 1.0\\insertionsort.cpp","group":"local","local":true}

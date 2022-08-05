@@ -1,0 +1,1 @@
+{"name":"Local: basicsort","url":"d:\\programming\\test\\basicsort.cpp","tests":[{"id":1640502769032,"input":"5\n9 7 6 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\test\\basicsort.cpp","group":"local","local":true}

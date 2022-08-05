@@ -1,0 +1,1 @@
+{"name":"Local: permutationxor","url":"d:\\programming\\codechef\\permutationxor.cpp","tests":[{"id":1643473024364,"input":"5\n1\n2\n3\n4\n7\n29012022","output":"0\n6\n6\n20\n841697449540506"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\codechef\\permutationxor.cpp","group":"local","local":true}

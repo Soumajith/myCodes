@@ -1,0 +1,1 @@
+{"name":"Local: largestword","url":"d:\\programming\\largestword.cpp","tests":[{"id":1634108474259,"input":"10\ndo or die","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\largestword.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: transport","url":"d:\\programming\\codechef\\transport.cpp","tests":[{"id":1643392473771,"input":"3\n7 3\nfaberty\n7 5\nbbaaaba\n4 4\nzxwy","output":"abferty\naababba\nwxyz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming\\codechef\\transport.cpp","group":"local","local":true}
